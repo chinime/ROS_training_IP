@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/chinime/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/chinime/catkin_ws/src/intro_training/include/**",
+        "/home/chinime/catkin_ws/src/rosserial/rosserial_server/include/**",
+        "/home/chinime/catkin_ws/src/rosserial/rosserial_test/include/**",
+        "/home/chinime/catkin_ws/src/six_dof_spatial_manipulator/include/**",
+        "/home/chinime/catkin_ws/src/six_dof_spatial_manipulator_arm_ikfast_plugin/include/**",
+        "/home/chinime/catkin_ws/src/six_dof_spatial_manipulator_five_dof_planning_group_ikfast_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,6 @@
+<launch>
+
+   <node name="talker" pkg="intro_training" type="talker_node" />
+   <node name="listener" pkg="intro_training" type="listener_node" output="screen" />
+
+</launch>
